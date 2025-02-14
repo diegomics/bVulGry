@@ -3,9 +3,3 @@
 
 Scripts and data.
 
-
-file X: blabla
-
-file Y: blabla
-
-file Z: blabla
