@@ -1,5 +1,5 @@
 # Chromosome-Scale Genome Assembly Provides Insights into Condor Evolution and Conservation. De Panis et al. 2025.
-# Fig. S2
+# Fig. S7
 
 library(ggplot2)
 library(dplyr)
