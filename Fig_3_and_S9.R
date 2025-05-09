@@ -117,7 +117,7 @@ ggplot(plot_data, aes(x = species, y = GO_ID)) +  # Using GO_ID instead of descr
 
 
 
-##### Fig. S4
+##### Fig. S9
 
 speciesA_expanded <- process_enrichment_file("../exp_con/nw_E/enrichment.txt", "Expanded", "NW")
 speciesA_contracted <- process_enrichment_file("../exp_con/nw_C/enrichment.txt", "Contracted", "NW")
