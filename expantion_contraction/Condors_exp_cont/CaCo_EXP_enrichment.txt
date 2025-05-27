@@ -1,0 +1,61 @@
+GO:0006334	53	nucleosome assembly	biological_process	1.5490783160306515e-61
+GO:0005200	66	structural constituent of cytoskeleton	molecular_function	4.997232932761202e-37
+GO:0006325	27	chromatin organization	biological_process	3.96081884066293e-23
+GO:0050776	25	regulation of immune response	biological_process	1.1024423052356402e-18
+GO:0003823	12	antigen binding	molecular_function	1.6252731447102466e-17
+GO:0050871	14	positive regulation of B cell activation	biological_process	3.215684182761945e-17
+GO:0052689	13	carboxylic ester hydrolase activity	molecular_function	3.6477330076238085e-17
+GO:0006836	10	neurotransmitter transport	biological_process	2.7505358198555516e-16
+GO:0002377	15	immunoglobulin production	biological_process	1.1436987996640329e-15
+GO:0039557	14	suppression by virus of host IRF7 activity	biological_process	9.811375686856063e-13
+GO:0039648	12	modulation by virus of host protein ubiquitination	biological_process	1.2605220688333735e-12
+GO:0019058	14	viral life cycle	biological_process	6.574990139948744e-12
+GO:0016021	7	integral component of membrane	cellular_component	1.210372372294331e-11
+GO:0035621	7	ER to Golgi ceramide transport	biological_process	1.4221200727570192e-11
+GO:1901390	7	positive regulation of transforming growth factor beta activation	biological_process	1.4221200727570192e-11
+GO:0034632	7	retinol transporter activity	molecular_function	1.4221200727570192e-11
+GO:0006741	7	NADP biosynthetic process	biological_process	1.4221200727570192e-11
+GO:0005044	10	scavenger receptor activity	molecular_function	3.891770396229561e-11
+GO:0017137	7	Rab GTPase binding	molecular_function	4.845684209300816e-10
+GO:0000278	13	mitotic cell cycle	biological_process	5.001757467979624e-10
+GO:0007608	33	sensory perception of smell	biological_process	2.014649866465759e-09
+GO:0016973	7	poly(A)+ mRNA export from nucleus	biological_process	4.204062823706523e-09
+GO:0061408	8	positive regulation of transcription from RNA polymerase II promoter in response to heat stress	biological_process	7.336862124384887e-09
+GO:0015031	36	protein transport	biological_process	1.1559906138121673e-08
+GO:0050829	5	defense response to Gram-negative bacterium	biological_process	1.0946588091584278e-07
+GO:0019318	5	hexose metabolic process	biological_process	1.0946588091584278e-07
+GO:0060676	7	ureteric bud formation	biological_process	2.1001767831051745e-07
+GO:0004984	15	olfactory receptor activity	molecular_function	5.760259020609063e-07
+GO:0042450	4	arginine biosynthetic process via ornithine	biological_process	6.715044542269733e-07
+GO:0060819	4	inactivation of X chromosome by genetic imprinting	biological_process	6.715044542269733e-07
+GO:2000582	6	positive regulation of ATP-dependent microtubule motor activity, plus-end-directed	biological_process	7.333235344200325e-07
+GO:0010818	6	T cell chemotaxis	biological_process	7.333235344200325e-07
+GO:0007021	7	tubulin complex assembly	biological_process	1.6043933598203478e-06
+GO:0006471	7	protein ADP-ribosylation	biological_process	4.162586502779169e-06
+GO:0007017	6	microtubule-based process	biological_process	9.810383642589503e-06
+GO:0007186	17	G-protein coupled receptor signaling pathway	biological_process	2.022067263321145e-05
+GO:0050718	4	positive regulation of interleukin-1 beta secretion	biological_process	2.158650523989136e-05
+GO:0001944	7	vasculature development	biological_process	5.331416315192104e-05
+GO:0001659	7	temperature homeostasis	biological_process	6.395624309371489e-05
+GO:0051607	6	defense response to virus	biological_process	6.847592563536242e-05
+GO:0005525	7	GTP binding	molecular_function	0.00014588105390525262
+GO:0006970	4	response to osmotic stress	biological_process	0.0002649056482766889
+GO:0006998	5	nuclear envelope organization	biological_process	0.00030633860521633096
+GO:0048741	7	skeletal muscle fiber development	biological_process	0.00038236617176389486
+GO:0042742	6	defense response to bacterium	biological_process	0.00043796394163115915
+GO:0006939	5	smooth muscle contraction	biological_process	0.0006835614267506734
+GO:0007140	3	male meiosis	biological_process	0.0007427916453046615
+GO:0022857	7	transmembrane transporter activity	molecular_function	0.000764291710996008
+GO:0097428	5	protein maturation by iron-sulfur cluster transfer	biological_process	0.000815566737519351
+GO:0060071	9	Wnt signaling pathway, planar cell polarity pathway	biological_process	0.0008688959409477722
+GO:0009247	3	glycolipid biosynthetic process	biological_process	0.001154894128744875
+GO:0005637	4	nuclear inner membrane	cellular_component	0.0013808188762036134
+GO:0007338	7	single fertilization	biological_process	0.002157605152943141
+GO:0006929	4	substrate-dependent cell migration	biological_process	0.003465617373235381
+GO:0045454	6	cell redox homeostasis	biological_process	0.003502848477144027
+GO:0050821	7	protein stabilization	biological_process	0.004577482376815579
+GO:0016082	4	synaptic vesicle priming	biological_process	0.008784553358085243
+GO:0006355	25	regulation of transcription, DNA-templated	biological_process	0.018018259624142885
+GO:0006953	3	acute-phase response	biological_process	0.02124574128809516
+GO:0035023	7	regulation of Rho protein signal transduction	biological_process	0.02191863085288276
+GO:0002250	3	adaptive immune response	biological_process	0.03196750458582894

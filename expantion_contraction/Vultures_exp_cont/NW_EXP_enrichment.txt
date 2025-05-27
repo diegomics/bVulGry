@@ -1,0 +1,4 @@
+GO:0007608	29	sensory perception of smell	biological_process	0.0
+GO:0004984	24	olfactory receptor activity	molecular_function	0.0
+GO:0007411	2	axon guidance	biological_process	0.00010406208114667275
+GO:0007186	3	G-protein coupled receptor signaling pathway	biological_process	0.0014004343507449414

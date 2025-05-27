@@ -1,0 +1,7 @@
+GO:0005737	12	cytoplasm	cellular_component	0.0
+GO:0007156	13	homophilic cell adhesion via plasma membrane adhesion molecules	biological_process	0.0
+GO:0005200	83	structural constituent of cytoskeleton	molecular_function	0.0
+GO:0007283	9	spermatogenesis	biological_process	0.0
+GO:0006998	4	nuclear envelope organization	biological_process	7.620120825645545e-08
+GO:0030335	3	positive regulation of cell migration	biological_process	2.3827916309776262e-05
+GO:0005637	2	nuclear inner membrane	cellular_component	0.0006629544817443926

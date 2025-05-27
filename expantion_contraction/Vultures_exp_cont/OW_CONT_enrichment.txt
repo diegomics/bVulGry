@@ -1,0 +1,77 @@
+GO:0016021	10	integral component of membrane	cellular_component	2.633012629923114e-36
+GO:0007165	18	signal transduction	biological_process	1.7080832763372974e-26
+GO:0006511	5	ubiquitin-dependent protein catabolic process	biological_process	2.0339901154539595e-24
+GO:0006313	22	transposition, DNA-mediated	biological_process	1.829445394858888e-19
+GO:0007601	2	visual perception	biological_process	7.912849436918788e-19
+GO:0006357	5	regulation of transcription from RNA polymerase II promoter	biological_process	1.7302988349846386e-14
+GO:0007283	11	spermatogenesis	biological_process	1.6185872262383557e-13
+GO:0015031	5	protein transport	biological_process	9.570339396430957e-12
+GO:0016055	12	Wnt signaling pathway	biological_process	6.7745627039765e-11
+GO:0016032	11	viral process	biological_process	9.013685141145496e-11
+GO:0007186	41	G-protein coupled receptor signaling pathway	biological_process	9.873699164202334e-11
+GO:0016192	6	vesicle-mediated transport	biological_process	9.995344085470139e-11
+GO:0006355	13	regulation of transcription, DNA-templated	biological_process	3.858274290561787e-10
+GO:0045944	4	positive regulation of transcription from RNA polymerase II promoter	biological_process	6.269272000868197e-10
+GO:0046872	12	metal ion binding	molecular_function	1.1902919206407592e-09
+GO:0006364	2	rRNA processing	biological_process	4.333823931174625e-08
+GO:0006366	3	transcription from RNA polymerase II promoter	biological_process	8.838151238425681e-08
+GO:0005634	2	nucleus	cellular_component	5.154868368021964e-07
+GO:0000245	20	spliceosomal complex assembly	biological_process	8.525925290356213e-07
+GO:0008270	2	zinc ion binding	molecular_function	9.308905644213272e-07
+GO:0016973	7	poly(A)+ mRNA export from nucleus	biological_process	2.7235628740945143e-06
+GO:0016567	9	protein ubiquitination	biological_process	2.7323728433646597e-06
+GO:0045893	3	positive regulation of transcription, DNA-templated	biological_process	2.7574343826063566e-06
+GO:0007605	2	sensory perception of sound	biological_process	6.644680625682194e-06
+GO:0005886	3	plasma membrane	cellular_component	2.6677855465191228e-05
+GO:0000278	13	mitotic cell cycle	biological_process	2.7475157407096215e-05
+GO:0004364	4	glutathione transferase activity	molecular_function	2.9141039410198586e-05
+GO:0003964	4	RNA-directed DNA polymerase activity	molecular_function	2.9141039410198586e-05
+GO:0005576	4	extracellular region	cellular_component	7.90366986085615e-05
+GO:0042060	3	wound healing	biological_process	0.00013102700484326373
+GO:0006886	2	intracellular protein transport	biological_process	0.00019196618405481133
+GO:0000122	2	negative regulation of transcription from RNA polymerase II promoter	biological_process	0.00026939601305203095
+GO:0051260	2	protein homooligomerization	biological_process	0.0004925878940644204
+GO:0007156	2	homophilic cell adhesion via plasma membrane adhesion molecules	biological_process	0.0006423060664218892
+GO:0005637	6	nuclear inner membrane	cellular_component	0.0011598206557314266
+GO:0006814	3	sodium ion transport	biological_process	0.0014338793821286058
+GO:0031098	3	stress-activated protein kinase signaling cascade	biological_process	0.001937067302920782
+GO:0007179	4	transforming growth factor beta receptor signaling pathway	biological_process	0.003339885260699794
+GO:1901329	2	regulation of odontoblast differentiation	biological_process	0.005436781494048735
+GO:0045542	2	positive regulation of cholesterol biosynthetic process	biological_process	0.005436781494048735
+GO:0034163	2	regulation of toll-like receptor 9 signaling pathway	biological_process	0.005436781494048735
+GO:0019902	2	phosphatase binding	molecular_function	0.005436781494048735
+GO:0051168	2	nuclear export	biological_process	0.005436781494048735
+GO:0061187	2	regulation of chromatin silencing at rDNA	biological_process	0.005436781494048735
+GO:0051446	2	positive regulation of meiotic cell cycle	biological_process	0.005436781494048735
+GO:0045766	2	positive regulation of angiogenesis	biological_process	0.005436781494048735
+GO:0010566	2	regulation of ketone biosynthetic process	biological_process	0.005436781494048735
+GO:1900029	2	positive regulation of ruffle assembly	biological_process	0.005436781494048735
+GO:0001223	2	transcription coactivator binding	molecular_function	0.005436781494048735
+GO:0005686	2	U2 snRNP	cellular_component	0.005436781494048735
+GO:0032971	2	regulation of muscle filament sliding	biological_process	0.005436781494048735
+GO:0034356	2	NAD biosynthesis via nicotinamide riboside salvage pathway	biological_process	0.005436781494048735
+GO:0051255	2	spindle midzone assembly	biological_process	0.005436781494048735
+GO:0070006	2	metalloaminopeptidase activity	molecular_function	0.005436781494048735
+GO:0009386	2	translational attenuation	biological_process	0.005436781494048735
+GO:0009925	2	basal plasma membrane	cellular_component	0.005436781494048735
+GO:1900535	2	palmitic acid biosynthetic process	biological_process	0.005436781494048735
+GO:0034477	2	U6 snRNA 3'-end processing	biological_process	0.005436781494048735
+GO:0001302	2	replicative cell aging	biological_process	0.005436781494048735
+GO:0031937	2	positive regulation of chromatin silencing	biological_process	0.005436781494048735
+GO:0033235	2	positive regulation of protein sumoylation	biological_process	0.005436781494048735
+GO:0050819	2	negative regulation of coagulation	biological_process	0.005436781494048735
+GO:0061108	2	seminal vesicle epithelium development	biological_process	0.005436781494048735
+GO:0031581	2	hemidesmosome assembly	biological_process	0.005436781494048735
+GO:0045916	2	negative regulation of complement activation	biological_process	0.005436781494048735
+GO:0006644	2	phospholipid metabolic process	biological_process	0.005992652485546773
+GO:0006367	6	transcription initiation from RNA polymerase II promoter	biological_process	0.00843577576655581
+GO:0007017	5	microtubule-based process	biological_process	0.008578252410622586
+GO:0007155	3	cell adhesion	biological_process	0.010205002578124563
+GO:0014003	3	oligodendrocyte development	biological_process	0.010300911699102624
+GO:0006368	2	transcription elongation from RNA polymerase II promoter	biological_process	0.01160463983616925
+GO:0007286	2	spermatid development	biological_process	0.012308230046168827
+GO:0000398	4	mRNA splicing, via spliceosome	biological_process	0.01240450155108869
+GO:0033260	2	nuclear DNA replication	biological_process	0.015114099188674268
+GO:0009303	2	rRNA transcription	biological_process	0.015114099188674268
+GO:0045730	2	respiratory burst	biological_process	0.015114099188674268
+GO:0006998	5	nuclear envelope organization	biological_process	0.015482372149899495

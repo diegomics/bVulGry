@@ -1,0 +1,47 @@
+GO:0005200	223	structural constituent of cytoskeleton	molecular_function	0.0
+GO:0006334	53	nucleosome assembly	biological_process	3.7888775801398434e-58
+GO:0007156	34	homophilic cell adhesion via plasma membrane adhesion molecules	biological_process	3.4390898889908174e-21
+GO:0006955	26	immune response	biological_process	1.0778629441852497e-19
+GO:0016021	3	integral component of membrane	cellular_component	8.044699567395448e-18
+GO:0007283	56	spermatogenesis	biological_process	2.278236481469689e-13
+GO:0006511	3	ubiquitin-dependent protein catabolic process	biological_process	3.0627419198888544e-10
+GO:0007522	6	visceral muscle development	biological_process	1.0216102464674038e-09
+GO:0015939	7	pantothenate metabolic process	biological_process	1.064075600051685e-09
+GO:0007165	12	signal transduction	biological_process	4.320754272727286e-09
+GO:0000278	12	mitotic cell cycle	biological_process	2.3309441461971993e-08
+GO:0044826	11	viral genome integration into host DNA	biological_process	2.5006829099239037e-08
+GO:0051725	5	protein de-ADP-ribosylation	biological_process	3.289584993625041e-08
+GO:0006953	8	acute-phase response	biological_process	1.9944768013653737e-07
+GO:0007601	2	visual perception	biological_process	2.030389764503631e-07
+GO:0019068	10	virion assembly	biological_process	2.2975321935272292e-07
+GO:0003774	10	motor activity	molecular_function	6.135682177966991e-07
+GO:0006310	6	DNA recombination	biological_process	1.408218638268456e-06
+GO:0016301	4	kinase activity	molecular_function	1.4778448158871011e-05
+GO:0006814	16	sodium ion transport	biological_process	2.9695142079513376e-05
+GO:0015031	3	protein transport	biological_process	4.5560961354754766e-05
+GO:0004984	13	olfactory receptor activity	molecular_function	5.211501661122009e-05
+GO:0001764	7	neuron migration	biological_process	8.851411733372387e-05
+GO:0002224	8	toll-like receptor signaling pathway	biological_process	0.00012199310763296127
+GO:0016567	2	protein ubiquitination	biological_process	0.00012540182738311764
+GO:0007416	9	synapse assembly	biological_process	0.00029025781342111533
+GO:0050870	3	positive regulation of T cell activation	biological_process	0.00031157894868286384
+GO:0016032	7	viral process	biological_process	0.00037176294485168147
+GO:0006590	4	thyroid hormone generation	biological_process	0.0007641980125477206
+GO:0007140	3	male meiosis	biological_process	0.0010226411716741778
+GO:0002933	2	lipid hydroxylation	biological_process	0.001042324082170438
+GO:0020037	2	heme binding	molecular_function	0.001042324082170438
+GO:0070462	2	plus-end specific microtubule depolymerization	biological_process	0.001042324082170438
+GO:0008380	3	RNA splicing	biological_process	0.0015576539744874493
+GO:0006357	8	regulation of transcription from RNA polymerase II promoter	biological_process	0.002227350289059818
+GO:0060378	2	regulation of brood size	biological_process	0.00302729724965496
+GO:0072678	2	T cell migration	biological_process	0.00302729724965496
+GO:0005737	12	cytoplasm	cellular_component	0.0034990433785778217
+GO:0006998	4	nuclear envelope organization	biological_process	0.004324792673038386
+GO:0019731	3	antibacterial humoral response	biological_process	0.006889479021284807
+GO:0021537	5	telencephalon development	biological_process	0.010367896046062685
+GO:0010606	2	positive regulation of cytoplasmic mRNA processing body assembly	biological_process	0.013733902865606563
+GO:0046872	11	metal ion binding	molecular_function	0.013872074348208594
+GO:0005576	2	extracellular region	cellular_component	0.013936247049464905
+GO:0048741	5	skeletal muscle fiber development	biological_process	0.015518876169479189
+GO:0045047	2	protein targeting to ER	biological_process	0.018613879308844686
+GO:0055085	2	transmembrane transport	biological_process	0.022006564294121102

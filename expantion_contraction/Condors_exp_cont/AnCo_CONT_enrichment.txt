@@ -1,0 +1,122 @@
+GO:0005200	168	structural constituent of cytoskeleton	molecular_function	1.2083764591892265e-93
+GO:0006334	67	nucleosome assembly	biological_process	5.117184853495624e-54
+GO:0007165	12	signal transduction	biological_process	3.7554957452938475e-35
+GO:0016021	14	integral component of membrane	cellular_component	4.821552547372763e-35
+GO:0006313	22	transposition, DNA-mediated	biological_process	7.406027709483055e-19
+GO:0006511	14	ubiquitin-dependent protein catabolic process	biological_process	1.0589723102053482e-17
+GO:0016192	2	vesicle-mediated transport	biological_process	8.465853752808563e-16
+GO:0000278	25	mitotic cell cycle	biological_process	9.268874784683256e-16
+GO:0007601	7	visual perception	biological_process	9.376358612488767e-15
+GO:0014842	16	regulation of satellite cell proliferation	biological_process	1.979777413438606e-14
+GO:0007283	14	spermatogenesis	biological_process	9.97369961425561e-13
+GO:0045944	3	positive regulation of transcription from RNA polymerase II promoter	biological_process	9.816672273785352e-12
+GO:0007156	38	homophilic cell adhesion via plasma membrane adhesion molecules	biological_process	1.2785951404009588e-11
+GO:0006325	27	chromatin organization	biological_process	1.3408061169988827e-11
+GO:0052689	13	carboxylic ester hydrolase activity	molecular_function	1.967011995156598e-11
+GO:0016055	14	Wnt signaling pathway	biological_process	9.127970222009696e-11
+GO:0003823	11	antigen binding	molecular_function	1.7044579773306288e-10
+GO:0015031	8	protein transport	biological_process	2.7007006118034076e-10
+GO:0006364	2	rRNA processing	biological_process	1.0707500262872912e-08
+GO:0050661	8	NADP binding	molecular_function	1.1092715696328356e-08
+GO:0039648	13	modulation by virus of host protein ubiquitination	biological_process	1.2747586006476041e-08
+GO:0050776	25	regulation of immune response	biological_process	1.565407622362874e-08
+GO:0016567	7	protein ubiquitination	biological_process	3.2629512627023284e-08
+GO:0001505	9	regulation of neurotransmitter levels	biological_process	5.318934510928717e-08
+GO:0045893	2	positive regulation of transcription, DNA-templated	biological_process	1.1148227865759565e-07
+GO:0070262	6	peptidyl-serine dephosphorylation	biological_process	2.2531573677949507e-07
+GO:0060261	6	positive regulation of transcription initiation from RNA polymerase II promoter	biological_process	2.2531573677949507e-07
+GO:0015939	7	pantothenate metabolic process	biological_process	5.329397379397757e-07
+GO:0039557	14	suppression by virus of host IRF7 activity	biological_process	5.451948079783349e-07
+GO:0005044	10	scavenger receptor activity	molecular_function	6.526815274673744e-07
+GO:0005634	3	nucleus	cellular_component	1.1629766286271604e-06
+GO:0046872	20	metal ion binding	molecular_function	1.5950175292955585e-06
+GO:0018101	7	protein citrullination	biological_process	1.6398918259952024e-06
+GO:0050871	10	positive regulation of B cell activation	biological_process	1.949173222641687e-06
+GO:0046458	5	hexadecanal metabolic process	biological_process	2.912658173988948e-06
+GO:0046685	5	response to arsenic-containing substance	biological_process	2.912658173988948e-06
+GO:0055085	2	transmembrane transport	biological_process	3.5383006191896285e-06
+GO:0016973	7	poly(A)+ mRNA export from nucleus	biological_process	4.1629004050479e-06
+GO:0006412	11	translation	biological_process	4.450287169082574e-06
+GO:0007186	33	G-protein coupled receptor signaling pathway	biological_process	6.004738872291609e-06
+GO:0008270	4	zinc ion binding	molecular_function	1.1538285434977007e-05
+GO:0061408	8	positive regulation of transcription from RNA polymerase II promoter in response to heat stress	biological_process	1.5827971283867414e-05
+GO:0050829	5	defense response to Gram-negative bacterium	biological_process	1.6124054623256717e-05
+GO:0016032	24	viral process	biological_process	2.2195378637438243e-05
+GO:0006486	4	protein glycosylation	biological_process	2.4833723068801737e-05
+GO:0015747	4	urate transport	biological_process	3.752562876524671e-05
+GO:0019888	4	protein phosphatase regulator activity	molecular_function	3.752562876524671e-05
+GO:0003964	4	RNA-directed DNA polymerase activity	molecular_function	3.752562876524671e-05
+GO:0070723	4	response to cholesterol	biological_process	3.752562876524671e-05
+GO:0042450	4	arginine biosynthetic process via ornithine	biological_process	3.752562876524671e-05
+GO:0060819	4	inactivation of X chromosome by genetic imprinting	biological_process	3.752562876524671e-05
+GO:0045892	2	negative regulation of transcription, DNA-templated	biological_process	5.010328646370801e-05
+GO:0015888	6	thiamine transport	biological_process	6.968054831834022e-05
+GO:0006979	3	response to oxidative stress	biological_process	9.840958271682407e-05
+GO:0000245	17	spliceosomal complex assembly	biological_process	0.00010968169660027668
+GO:0000122	2	negative regulation of transcription from RNA polymerase II promoter	biological_process	0.000130473896088988
+GO:0061032	4	visceral serous pericardium development	biological_process	0.00017306485295628875
+GO:0038123	4	toll-like receptor TLR1:TLR2 signaling pathway	biological_process	0.00017306485295628875
+GO:2000582	6	positive regulation of ATP-dependent microtubule motor activity, plus-end-directed	biological_process	0.00022038712702770363
+GO:0033574	9	response to testosterone	biological_process	0.0002747299462808636
+GO:0047844	7	deoxycytidine deaminase activity	molecular_function	0.00033483075854596946
+GO:0043488	8	regulation of mRNA stability	biological_process	0.00037143882763713014
+GO:0061436	3	establishment of skin barrier	biological_process	0.0004818508273334577
+GO:0052695	3	cellular glucuronidation	biological_process	0.0004818508273334577
+GO:0010390	3	histone monoubiquitination	biological_process	0.0004818508273334577
+GO:0071333	3	cellular response to glucose stimulus	biological_process	0.0004818508273334577
+GO:0030474	3	spindle pole body duplication	biological_process	0.0004818508273334577
+GO:0016246	3	RNA interference	biological_process	0.0004818508273334577
+GO:0006437	3	tyrosyl-tRNA aminoacylation	biological_process	0.0004818508273334577
+GO:0034341	3	response to interferon-gamma	biological_process	0.0004818508273334577
+GO:0003682	3	chromatin binding	molecular_function	0.0004818508273334577
+GO:1990138	3	neuron projection extension	biological_process	0.0004818508273334577
+GO:0016740	3	transferase activity	molecular_function	0.0004818508273334577
+GO:0002246	3	wound healing involved in inflammatory response	biological_process	0.0004818508273334577
+GO:0030433	3	ER-associated ubiquitin-dependent protein catabolic process	biological_process	0.0005801109682239196
+GO:0000398	2	mRNA splicing, via spliceosome	biological_process	0.000632636878946599
+GO:0002224	11	toll-like receptor signaling pathway	biological_process	0.0008506545226477121
+GO:0006937	4	regulation of muscle contraction	biological_process	0.0010306180610814065
+GO:0005637	6	nuclear inner membrane	cellular_component	0.0015946258392830316
+GO:0004984	18	olfactory receptor activity	molecular_function	0.001958804496820398
+GO:0007017	6	microtubule-based process	biological_process	0.0021503135105042934
+GO:0006468	3	protein phosphorylation	biological_process	0.0024174639057839057
+GO:0030225	4	macrophage differentiation	biological_process	0.0031560927731827263
+GO:0071803	3	positive regulation of podosome assembly	biological_process	0.004097122279769532
+GO:0051258	3	protein polymerization	biological_process	0.004097122279769532
+GO:0006890	5	retrograde vesicle-mediated transport, Golgi to ER	biological_process	0.0041891716214658824
+GO:0006357	31	regulation of transcription from RNA polymerase II promoter	biological_process	0.005526766995341912
+GO:1901329	2	regulation of odontoblast differentiation	biological_process	0.006166646869664647
+GO:0045542	2	positive regulation of cholesterol biosynthetic process	biological_process	0.006166646869664647
+GO:0006997	2	nucleus organization	biological_process	0.006166646869664647
+GO:0045058	2	T cell selection	biological_process	0.006166646869664647
+GO:1900224	2	positive regulation of nodal signaling pathway involved in determination of lateral mesoderm left/right asymmetry	biological_process	0.006166646869664647
+GO:0051168	2	nuclear export	biological_process	0.006166646869664647
+GO:0045766	2	positive regulation of angiogenesis	biological_process	0.006166646869664647
+GO:0001223	2	transcription coactivator binding	molecular_function	0.006166646869664647
+GO:0034356	2	NAD biosynthesis via nicotinamide riboside salvage pathway	biological_process	0.006166646869664647
+GO:0051255	2	spindle midzone assembly	biological_process	0.006166646869664647
+GO:0031937	2	positive regulation of chromatin silencing	biological_process	0.006166646869664647
+GO:0031581	2	hemidesmosome assembly	biological_process	0.006166646869664647
+GO:0045916	2	negative regulation of complement activation	biological_process	0.006166646869664647
+GO:0010571	3	positive regulation of nuclear cell cycle DNA replication	biological_process	0.007555731996458095
+GO:0006805	4	xenobiotic metabolic process	biological_process	0.00821120711416619
+GO:0007286	2	spermatid development	biological_process	0.008243192205552075
+GO:0051607	6	defense response to virus	biological_process	0.0103781922689082
+GO:0005739	2	mitochondrion	cellular_component	0.011325880030575218
+GO:0006434	3	seryl-tRNA aminoacylation	biological_process	0.012191912932720263
+GO:0007140	3	male meiosis	biological_process	0.012191912932720263
+GO:0001764	7	neuron migration	biological_process	0.012342832502413397
+GO:0010389	9	regulation of G2/M transition of mitotic cell cycle	biological_process	0.013472043355793495
+GO:0006590	4	thyroid hormone generation	biological_process	0.01672653466578752
+GO:0002223	6	stimulatory C-type lectin receptor signaling pathway	biological_process	0.016807014060921343
+GO:0045730	2	respiratory burst	biological_process	0.01705438812699358
+GO:0072678	2	T cell migration	biological_process	0.01705438812699358
+GO:0045595	3	regulation of cell differentiation	biological_process	0.017986171214643597
+GO:0006783	3	heme biosynthetic process	biological_process	0.017986171214643597
+GO:0019276	3	UDP-N-acetylgalactosamine metabolic process	biological_process	0.017986171214643597
+GO:0051496	3	positive regulation of stress fiber assembly	biological_process	0.017986171214643597
+GO:0009247	3	glycolipid biosynthetic process	biological_process	0.017986171214643597
+GO:0006998	5	nuclear envelope organization	biological_process	0.019452393275001614
+GO:0005509	8	calcium ion binding	molecular_function	0.020880601935431484
+GO:0005576	11	extracellular region	cellular_component	0.021300002110317615
+GO:0006886	7	intracellular protein transport	biological_process	0.022469220271478307
